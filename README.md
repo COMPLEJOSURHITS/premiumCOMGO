@@ -58,3 +58,5 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1,FREEESTELAR
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1,FREEFAMILIA
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
