@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,KpopHD
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1,TOPLatinoTV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
 #EXTINF:-1,VClassicTV Tropical
