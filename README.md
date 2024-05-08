@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,TV Costa
+https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF:-1,COMGOCINE
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,KpopHD
