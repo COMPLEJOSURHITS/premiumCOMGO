@@ -60,3 +60,9 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1,FREEFAMILIA
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1,FreeLIVE
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
+#EXTINF:-1,Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1,Chilevisual Retro HD
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
