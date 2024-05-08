@@ -1,70 +1,29 @@
 #EXTM3U
-
-#EXTINF:-1,EnerGeek Retro (CANAL PRICIPAL) COM GO
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-
-#EXTINF:-1,RED EVENTOS 
-
-#EXTINF:-1,RED HITS PREMIUM 1
-https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-
-#EXTINF:-1,REDHITSPREMIUMLOCAL
-https://stream-linkyprojects.linky.com.co/hls/redhits.m3u8
-
-#EXTINF:-1,RED+
-
-#EXTINF:-1,RED+2
-
-#EXTINF:-1,REDGO SUR COMPREMIUM
-https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-
-#EXTINF:-1,REDGO NORTE COMPREMIUM
-https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
-
-#EXTINF:-1,REDGO OESTE COMPREMIUM
-https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
-
-#EXTINF:-1,REDGO CENTRO COMPREMIUM
-https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
-
-#EXTINF:-1,COMHITS
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1,COM CLASIC
-https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1,COMDISCO
-http://stream.zeno.fm/n2e4q8rpxxhvv
-
-#EXTINF:-1,RED EVENTOS 4k
-
-#EXTINF:-1,COM GO
-https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-
-#EXTINF:-1,COMPREMIUMHD
-https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
-
-
-#EXTINF:-1,RED HITS PREMIUM 1
-http://190.122.96.187:8888/http/010
-
-#EXTINF:-1,RED HITS PREMIUM 2 HD
-https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-
-#EXTINF:-1,COMEVENTO1HD
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,COM MUSIC
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,COMHITS 2 LIVEPLUS
-https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,COMBASE
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,TOONIZAKI2
-https://acl-server.linky.com.co/hls/toonizaki2.m3u8
-
-#EXTINF:-1,TOONIZAKI2INTERNACINALHD
+#EXTINF:-1,TOPLatinoTV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
+#EXTINF:-1,VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Latinos Radio
+https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Retro Plus TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Canal VM Latino 
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,COMMUSIC
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Freetv MUSIC
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,M Music TV
+https://cdn.mycloudstream.io/hls/live/broadcast/9b3ke4sb/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,FreetvBANDA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,COMMUSIC2
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Telemusica
+http://186.155.200.118:1935/telemusica/telemusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TOPLatinoTV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w1702644764.m3u8
+#EXTINF:-1,TuMusicaHD
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
+#EXTINF:-1,VClassicTV 
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
